@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.28.0",
+    "vite": "^5.0.8"
+  },
+  "type": "module"
+}
