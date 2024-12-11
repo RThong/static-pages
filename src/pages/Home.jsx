@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function Home() {
   return (
     <div className="home-page">
-      <h1>Home Page</h1>
+      <h1>Home Page11</h1>
       <Link to="/detail">去详情页</Link>
     </div>
   )
