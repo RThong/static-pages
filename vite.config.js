@@ -9,5 +9,4 @@ export default defineConfig({
   //   port: 2345
   // }
 
-  base: '/static-pages/',
 })
