@@ -1,10 +1,11 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Home() {
   return (
     <div className="home-page">
       <h1>Home Page</h1>
-      <a href="/detail">Go to Detail122</a>
+      <Link to="/detail">去详情页</Link>
     </div>
   )
 }
