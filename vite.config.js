@@ -8,4 +8,6 @@ export default defineConfig({
   // server: {
   //   port: 2345
   // }
+
+  base: '/static-pages/',
 })
