@@ -5,7 +5,7 @@ function Detail() {
   return (
     <div>
       <h1>Detail Page</h1>
-      <Link to="/static-pages">返回首页</Link>
+      <Link to="/">返回首页</Link>
     </div>
   )
 }

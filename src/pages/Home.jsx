@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="home-page">
       <h1>Home Page</h1>
-      <Link to="/static-pages/detail">去详情页</Link>
+      <Link to="/detail">去详情页</Link>
     </div>
   )
 }
