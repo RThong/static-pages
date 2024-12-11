@@ -1,10 +1,11 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Detail() {
   return (
-    <div className="detail-page">
-      <h1>Detail Page11222</h1>
-      <a href="/">Back to Home</a>
+    <div>
+      <h1>Detail Page</h1>
+      <Link to="/static-pages">返回首页</Link>
     </div>
   )
 }
