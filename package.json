@@ -1,7 +1,8 @@
 {
   "name": "javascript",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.2.1",
