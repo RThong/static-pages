@@ -9,4 +9,7 @@ export default defineConfig({
   //   port: 2345
   // }
 
+  base: process.env.NODE_ENV === 'production' 
+    ? '/static-pages/' 
+    : '/',
 })
